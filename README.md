@@ -1,4 +1,6 @@
-### Hi there 👋
+ Hi there 👋 
+
+⚡ I’m currently working on React, NodeJs, Nextjs, .Net core, Mssql, Mongo, Docker and man more fun technologies.
 
 <!--
 **YilmazTasdelen/YilmazTasdelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=YilmazTasdelen" alt="GitHub Readme Stats" width=500px"/>
