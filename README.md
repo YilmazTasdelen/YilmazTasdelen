@@ -1,6 +1,6 @@
  Hi there 👋 
 
-⚡ I’m currently working on React, NodeJs, Nextjs, .Net core, Mssql, Mongo, Docker and man more fun technologies.
+⚡ I’m currently working on React, NodeJs, Nextjs, .Net core, Mssql, Mongo, Docker and many more fun technologies.
 
 <!--
 **YilmazTasdelen/YilmazTasdelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
