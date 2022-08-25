@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=YilmazTasdelen" alt="GitHub Readme Stats" width=500px"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazTasdelen&hide=TeX&layout=compact" alt="GitHub Readme Stats" width=420px"/>
