@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img  src="https://camo.githubusercontent.com/6cb40620e7823b81951894c470f70cd6320faedf37ef484c2a3f5050e643a48b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d59696c6d617a54617364656c656e" alt="GitHub Readme Stats" width=500px"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=YilmazTasdelen" alt="GitHub Readme Stats" width=500px"/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazTasdelen&hide=TeX&layout=compact" alt="GitHub Readme Stats" width=500px"/>
